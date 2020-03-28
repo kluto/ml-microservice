@@ -24,6 +24,4 @@ Run `make install` in a virtualenv to install dependencies
 # Other files
 
 * `./make_prediction.sh` to query the API
-* Setup and Configure Kubernetes locally
-* Create Flask app in Container
-* Run via kubectl
+* `./upload_docker.sh` to upload an image to docker hub
